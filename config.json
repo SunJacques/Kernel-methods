@@ -4,5 +4,5 @@
     "kmin": [6,4,5],
     "kmax": [18,31,15],
     "submit": true,
-    "output": "submit.csv"
+    "output": "Yte.csv"
 }
